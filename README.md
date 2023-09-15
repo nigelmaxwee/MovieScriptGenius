@@ -12,4 +12,4 @@ Examples of generated movie scripts can be seen below from the 3 different movie
 This code was done and graded as a group project for MS0003 Introduction to Data Science and Artificial Intelligence at Nanyang Technological University (NTU) where I received an overall A+ grade for this module. My contributions to this project included:
 
 1. Coded overall code for NLP model training and implementation
-2. Coded essential cleaning of reference transcripts
+2. Conducted essential cleaning of reference transcripts
